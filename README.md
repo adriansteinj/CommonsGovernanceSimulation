@@ -27,19 +27,3 @@ These hypotheses are:
 3. Increased resource levels should correlate with increased identification and affective commitment as the system moves from an exploitation towards a conservation phase (Mosimane et al., 2012). 
 4. Revealing everyone’s current strategy for resource use should increase cooperation through reputation mechanisms in groups larger than 20 (Aflagah et al., 2019).
 5. Directed, incomplete networks should sustain cooperation levels equally as high as complete networks while maintaining more idealistic social norms due to overestimation of others’ appropriation (Shreedhar et al., 2018).
-
-**System and agents**
-
-Simulating a complex system with ecological, social, economic, and cognitive variables requires making some simplifications and assumptions, which follow from the literature. The model looks at a resource-using community with clear boundaries to its users, as Ostrom (1990) suggests. There are several micro-situational variables that are set to fixed or initial levels. These include:
-- Network size, which is bounded at $ N = 20 $, to implement a community small enough to show cooperation without system-wide communication, as predicted in Aflagah et al. (2019). 
-- Resource stock, which starts at level $ R = 100 $
-- The rate of return $ r_i $, denoting the natural increase in the resource per community member at each time period. For sake of simplicity, the model assumes $r_i=1$ resource unit. As a result, the resource naturally increases at the rate $ R(t) = R(t-1) + N r_i $
-
-Following the cognitive-behavioral framework of CPR governance, each agent holds a number of beliefs which produce behavior. The core variables encoding these beliefs are:
-- Social norms distribution of expected cooperation $ p (c) $
-- Affective commitment towards cooperation $ A $
-- Identification with the community $ Q $
-
-**Note to reader**
-
-The current implementation does not yet implement a fully fleshed-out reputation mechanism and can thus not compare it to the social norm mechanism. Furthermore, it does not yet include a formula for personal interaction and its effects on affective commitment.
