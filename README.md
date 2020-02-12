@@ -1,5 +1,5 @@
 # Commons Governance Simulation
-A Python-based agent-based model of a community governing a common resource through reputation and identity.
+A Python implementation of an agent-based model of a community governing a common resource through reputation and identity.
 
 **Common-pool resources**
 
@@ -13,11 +13,11 @@ Common-pool resources are publicly available, collectively-managed resources tha
 **Cooperation mechanisms**
 
 There are two relevant mechanisms that can support successful community-based resource governance. 
-- A reputation-based mechanism, where individual agents develop trust towards each other through conditional reciprocity, leading to cooperation or punishment for defectors. 
+- A reputation-based mechanism, where individual agents develop trust towards each other through learning about the individuals around them and cooperating only conditional upon the reputation of others, leading to cooperation or punishment for defectors. 
 - An identity-based mechanism that relies on social norms, which agents learn through observation of others, and which interact with each agent's identification with and affective commitment towards the group. 
 
-**Theoretical hypotheses**
 
+**Theoretical hypotheses**
 
 These two parallel mechanisms together constitute a novel cognitive-behavioral framework of CPR governance which yields testable hypotheses about the effects of several key intervention variables on system-level beliefs and behaviors.
 
