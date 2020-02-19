@@ -16,17 +16,6 @@ There are two relevant mechanisms that can support successful community-based re
 - A reputation-based mechanism, where individual agents develop trust towards each other through learning about the individuals around them and cooperating only conditional upon the reputation of others, leading to cooperation or punishment for defectors. 
 - An identity-based mechanism that relies on social norms, which agents learn through observation of others, and which interact with each agent's identification with and affective commitment towards the group. 
 
-The full framework follows the below variable interactions and is fully supported by a literature spanning behavioral game theory, social neuroscience, social psychology and identity economics (link to full Capstone to be added).
-
-[![Reputation-mechanism.jpg](https://i.postimg.cc/pVYNQTmm/Reputation-mechanism.jpg)](https://postimg.cc/236XrCFY)
-
-The reputation mechanism works through two loops. One reinforces cooperation through social sanctioning, the other may decrease identification with the CPR governance system if net economic benefits are not high enough compared to other agents to sustain identification. Solid arrows signify reinforcement, dashed arrows stand for balancing effects.
-
-[![Identity-mechanism.jpg](https://i.postimg.cc/WzVBLRHp/Identity-mechanism.jpg)](https://postimg.cc/9Rx8Zk2s)
-
-The isolated identity mechanism works in one simple feedback loop: affective commitment towards the group creates a cost of defection in terms of a loss of identity, which induces cooperation and brings social utility to community members, further strengthening affective commitment. All arrows are reinforcing effects.
-
-
 **Theoretical hypotheses**
 
 These two parallel mechanisms together constitute a novel cognitive-behavioral framework of CPR governance which yields testable hypotheses about the effects of several key intervention variables on system-level beliefs and behaviors.
