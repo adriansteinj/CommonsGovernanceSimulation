@@ -16,7 +16,7 @@ There are two relevant mechanisms that can support successful community-based re
 - A reputation-based mechanism, where individual agents develop trust towards each other through learning about the individuals around them and cooperating only conditional upon the reputation of others, leading to cooperation or punishment for defectors. 
 - An identity-based mechanism that relies on social norms, which agents learn through observation of others, and which interact with each agent's identification with and affective commitment towards the group. 
 
-The implementation of the identity mechanism is in the [a relative link](cprsim.py) file, the reputation mechanism is still in development.
+The implementation of the identity mechanism is in the [cprsim.py](cprsim.py) file, the reputation mechanism is still in development.
 
 **Theoretical hypotheses**
 
@@ -29,4 +29,4 @@ These hypotheses are:
 4. The reputation and identity mechanisms in isolation will result in less cooperation and less sustainable resource use than the combination of the two mechanisms (Bergami & Bagozzi, 2000). 
 5. Revealing everyone’s current strategy for resource use should increase cooperation through reputation mechanisms in groups larger than 20 (Aflagah et al., 2019).
 
-The [a relative link](Testing Cooperation Hypotheses.ipynb) Notebook shows the testing of these hypotheses with the common-pool resource governance model.
+The [Testing Cooperation Hypotheses](Testing Cooperation Hypotheses.ipynb) Notebook shows the testing of these hypotheses with the common-pool resource governance model.
