@@ -29,4 +29,4 @@ These hypotheses are:
 4. The reputation and identity mechanisms in isolation will result in less cooperation and less sustainable resource use than the combination of the two mechanisms (Bergami & Bagozzi, 2000). 
 5. Revealing everyone’s current strategy for resource use should increase cooperation through reputation mechanisms in groups larger than 20 (Aflagah et al., 2019).
 
-The [Testing Cooperation Hypotheses](Testing_Cooperation_Hypotheses.ipynb) Notebook shows the testing of these hypotheses with the common-pool resource governance model.
+The [Testing Cooperation Hypotheses](Testing Cooperation Hypotheses.ipynb) Notebook shows the testing of these hypotheses with the common-pool resource governance model.
