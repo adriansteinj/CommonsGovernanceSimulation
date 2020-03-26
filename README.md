@@ -30,4 +30,4 @@ These hypotheses are:
 5. Cooperation should be higher in groups with homogeneously high levels of identification than in groups with more heterogeneous levels of identification (Habyarimana et al., 2007).
 6. In groups without strong social norms, revealing everyone’s current strategy for resource use should increase cooperation (Aflagah et al., 2019).
 
-The [Testing Cooperation Hypotheses](testing_cooperation_hypotheses.ipynb) Notebook shows the testing of these hypotheses with the common-pool resource governance model.
+The [Simulation Results](simulation_results.ipynb) Notebook shows the testing of these hypotheses with the common-pool resource governance model.
